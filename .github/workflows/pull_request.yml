@@ -9,7 +9,7 @@ on:
 # JOBS: trabajos que se ejecutan cuando ocurre el evento
 jobs:
   build:                        # identificador interno del job
-    name: Build y pruebas       # nombre visible del job
+    name: Pruebas de la calculadora - Eliotelcrack  # nombre visible del job
     runs-on: ubuntu-latest      # RUNNER: máquina virtual que ejecuta el job
 
     # STEPS: pasos en orden; si uno falla, el job se detiene
