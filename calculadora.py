@@ -2,7 +2,7 @@
 # Funciones simples que el pipeline probará en cada cambio.
 
 def sumar(a, b):
-    return a - b
+    return a + b
 
 def restar(a, b):
     return a - b
